@@ -1,16 +1,3 @@
-﻿/****************************************************************************
-**				SAKARYA ÜNİVERSİTESİ
-**				BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
-**				BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
-**			    NESNEYE DAYALI PROGRAMLAMA DERSİ
-**				2021-2022 BAHAR DÖNEMİ
-**	
-**				ÖDEV NUMARASI..........: 2.DONEM / 1. ODEV
-**				ÖĞRENCİ ADI............: VEDAT DOGAN
-**				ÖĞRENCİ NUMARASI.......: G211210053
-**              DERSİN ALINDIĞI GRUP...: 2.Ögretim\ B Grubu
-****************************************************************************/
-
 using System;
 
 namespace sifre_guvenlik
